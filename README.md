@@ -1,3 +1,4 @@
+
 # hypervisor-for-beginners
 For the beginner aspiring to write a simple hypervisor.
 
@@ -8,7 +9,7 @@ The hypervisor demonstrates the basics:
 3) initialize Extended Page Table (EPT).
 4) setting up stack for vmm.
 5) instantiating virtualization on multiple-processors.
-
+6) handling vm-exits.
 
 
 BUILD Environment: 
